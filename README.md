@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hemanth Ambati</h1>
 <h3 align="center">A passionate Machine Learning and Artificial Intelligence Enthusiast.</h3>
 
+- 🌱 I’m currently learning **Flutter and Machine Learning**
+
+- 📫 You can reach me at **ambatihemanth00@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hemanth-ambati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth-ambati" height="30" width="40" /></a>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemanth Ambati</h1>
-<h3 align="center">A passionate Machine Learning and Artificial Intelligence Enthusiast.</h3>
+<h3 align="center">A passionate Machine Learning and Artificial Intelligence learner pursuing my Undergrade.</h3>
 
 - 🌱 I’m currently learning **Flutter and Machine Learning**
 

@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/hemanth-ambati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth-ambati" height="30" width="40" /></a>
 <a href="https://twitter.com/@hemanthambati0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hemanthambati0" height="30" width="40" /></a>
+<a href="https://g.dev/HemanthAmbati" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSei0JhgofdH4P7p7KjJ7WXP5wd-sEFWebI138G3om7FA&s" alt="https://g.dev/HemanthAmbati" height="40" width="40" /></a> &nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
